@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Raheem Photog</title>
+</head>
+
+<body style="text-align:center;font-family:Arial">
+
+<h1>Raheem Photog</h1>
+<p>Photographe professionnel à Dakar</p>
+
+<h2>Mon Portfolio</h2>
+
+<img src="https://via.placeholder.com/300">
+<img src="https://via.placeholder.com/300">
+<img src="https://via.placeholder.com/300">
+
+<h3>Contact</h3>
+<p>WhatsApp : +221 78 399 46 20</p>
+
+</body>
+</html>
